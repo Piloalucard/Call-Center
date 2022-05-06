@@ -1,2 +1,2 @@
 # Call-Center
- Proyecto final de Seminarion de Datos
+ Proyecto final de Seminario de Estructura de Datos con creacion de listas simples, dobles y enlazadas
