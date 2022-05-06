@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1606250852 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\main.cpp
+	<iostream>
+	"agentMenu.h"
+
+1605561891 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\client.cpp
+	"client.h"
+
+1603845085 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\client.h
+	<iostream>
+	"time.h"
+	"date.h"
+
+1601606131 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\time.h
+	<iostream>
+	<string>
+	<cstdio>
+	<ctime>
+	<chrono>
+	<cstdlib>
+
+1602798454 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\date.h
+	<iostream>
+	<string>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<chrono>
+	<sstream>
+
+1605568860 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientlist.cpp
+	"clientlist.h"
+
+1605555854 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientlist.h
+	<iostream>
+	<fstream>
+	"clientnode.h"
+	"client.h"
+	"listexception.h"
+
+1601605663 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientnode.h
+	<iostream>
+	"client.h"
+
+1601594658 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\listexception.h
+	<exception>
+	<string>
+
+1601594925 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientnode.cpp
+	"clientnode.h"
+
+1602798728 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\date.cpp
+	"date.h"
+
+1605561921 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\schedule.cpp
+	"schedule.h"
+
+1605560401 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\schedule.h
+	<iostream>
+	<string>
+	"time.h"
+
+1601606113 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\time.cpp
+	"time.h"
+
+1604708471 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientmenu.cpp
+	"clientMenu.h"
+
+1602818038 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\clientmenu.h
+	<iostream>
+	"clientlist.h"
+	<string>
+	<ctype.h>
+
+1602794713 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\colors.h
+
+1605563515 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agent.cpp
+	"agent.h"
+
+1605558717 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agent.h
+	<iostream>
+	<sstream>
+	<string>
+	"clientlist.h"
+	"schedule.h"
+
+1603249648 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentnode.cpp
+	"agentnode.h"
+
+1603249657 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentnode.h
+	<iostream>
+	"agent.h"
+
+1605643244 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentlist.cpp
+	"agentlist.h"
+
+1605642837 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentlist.h
+	<iostream>
+	<fstream>
+	<locale>
+	<string>
+	"agentnode.h"
+	"agent.h"
+
+1606887186 source:c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentmenu.cpp
+	"agentMenu.h"
+
+1604800659 c:\users\gustavo\desktop\tercerocucei\sem. datos\tda\agentmenu.h
+	"agent.h"
+	"agentlist.h"
+	"clientlist.h"
+	"clientMenu.h"
+	"time.h"
+	<ctype.h>
+	<windows.h>
+	<unistd.h>
+
