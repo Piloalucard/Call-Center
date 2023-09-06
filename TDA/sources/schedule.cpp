@@ -1,4 +1,4 @@
-#include "schedule.h"
+#include "../headers/schedule.h"
 using namespace std;
 bool Schedule::isValid(const bool& m, const bool& t, const bool& w, const bool&th, const bool&f, const bool& s) const
 {

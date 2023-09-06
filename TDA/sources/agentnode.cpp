@@ -1,4 +1,4 @@
-#include "agentnode.h"
+#include "../headers/agentnode.h"
 
 using namespace std;
 AgentNode::AgentNode() : dataPT(nullptr), prev(nullptr), next(nullptr)

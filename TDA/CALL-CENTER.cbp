@@ -12,34 +12,30 @@
 				<Option compiler="gcc" />
 			</Target>
 		</Build>
-		<Unit filename="agent.cpp" />
-		<Unit filename="agent.h" />
-		<Unit filename="agentMenu.cpp" />
-		<Unit filename="agentMenu.h" />
-		<Unit filename="agentlist.cpp" />
-		<Unit filename="agentlist.h" />
-		<Unit filename="agentnode.cpp" />
-		<Unit filename="agentnode.h" />
-		<Unit filename="client.cpp" />
-		<Unit filename="client.h" />
-		<Unit filename="clientMenu.cpp" />
-		<Unit filename="clientMenu.h" />
-		<Unit filename="clientlist.cpp" />
-		<Unit filename="clientlist.h" />
-		<Unit filename="clientnode.cpp" />
-		<Unit filename="clientnode.h" />
-		<Unit filename="date.cpp" />
-		<Unit filename="date.h" />
-		<Unit filename="listexception.h" />
+		<Unit filename="headers/agent.h" />
+		<Unit filename="headers/agentMenu.h" />
+		<Unit filename="headers/agentlist.h" />
+		<Unit filename="headers/agentnode.h" />
+		<Unit filename="headers/client.h" />
+		<Unit filename="headers/clientMenu.h" />
+		<Unit filename="headers/clientlist.h" />
+		<Unit filename="headers/clientnode.h" />
+		<Unit filename="headers/date.h" />
+		<Unit filename="headers/listexception.h" />
+		<Unit filename="headers/schedule.h" />
+		<Unit filename="headers/time.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="schedule.cpp" />
-		<Unit filename="schedule.h" />
-		<Unit filename="time.cpp" />
-		<Unit filename="time.h" />
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-		</Extensions>
+		<Unit filename="sources/agent.cpp" />
+		<Unit filename="sources/agentMenu.cpp" />
+		<Unit filename="sources/agentlist.cpp" />
+		<Unit filename="sources/agentnode.cpp" />
+		<Unit filename="sources/client.cpp" />
+		<Unit filename="sources/clientMenu.cpp" />
+		<Unit filename="sources/clientlist.cpp" />
+		<Unit filename="sources/clientnode.cpp" />
+		<Unit filename="sources/date.cpp" />
+		<Unit filename="sources/schedule.cpp" />
+		<Unit filename="sources/time.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
